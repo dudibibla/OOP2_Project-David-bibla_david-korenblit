@@ -1,0 +1,112 @@
+[
+  {
+    "type": "player_spawn",
+    "x": 150,
+    "y": 530,
+    "angle": 270,
+    "direction_x": 0.0, 
+    "direction_y": 0.0
+  }
+  {
+    "type": "parking_spot",
+    "x": 399,
+    "y": 530,
+    "angle": 90,
+    "direction_x": 0.0,
+    "direction_y": -1.0
+  },
+  {
+    "type": "parkingcar",
+    "x": 62,
+    "y": 123,
+    "angle": 0,
+    "direction_x": 1.0,
+    "direction_y": 0.0,
+    "texture": "parked_car_blue"
+  },
+  {
+    "type": "parkingcar",
+    "x": 538,
+    "y": 547,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": -1.0,
+    "texture": "parked_car_green"
+  },
+  {
+    "type": "parkingcar",
+    "x": 672,
+    "y": 547,
+    "angle": 270,
+    "direction_x": 0.0,
+    "direction_y": 1.0,
+    "texture": "parked_car_red"
+  },
+  {
+    "type": "parkingcar",
+    "x": 680,
+    "y": 50,
+    "angle": 90,
+    "direction_x": 0.0,
+    "direction_y": 1.0,
+    "texture": "parked_car_blue"
+  },
+  {
+    "type": "movingcar",
+    "x": 100,
+    "y": 250,
+    "angle": 0,
+    "direction_x": 1.0,
+    "direction_y": 0.0,
+    "speed": 120,
+    "texture": "f1-car"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 234,
+    "width": 200,
+    "height": 1,
+    "comment": "obstacle_barrier_1_expanded"
+  },
+  //{
+  //  "type": "border",
+  //  "x": 250,
+  //  "y": 490,
+  //  "width": 10,
+  //  "height": 50,
+  //  "comment": "obstacle_barrier_2_expanded"
+  //},
+  {
+    "type": "border",
+    "x": 0,
+    "y": 0,
+    "width": 800,
+    "height": 1,
+    "comment": "top_line"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 611,
+    "width": 800,
+    "height": 1,
+    "comment": "bottom_line"
+  },
+  {
+    "type": "border",
+    "x": 0,
+    "y": 0,
+    "width": 1,
+    "height": 608,
+    "comment": "left_line"
+  },
+  {
+    "type": "border",
+    "x": 799,
+    "y": 0,
+    "width": 1,
+    "height": 608,
+    "comment": "right_line"
+  }
+]
